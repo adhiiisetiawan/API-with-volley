@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APIKuy</string>
+    <string name="hint_team_position">1</string>
+    <string name="image_team_logo">Team Logo</string>
+    <string name="hint_team_name">Real Madrid CF</string>
+    <string name="hint_team_played">50</string>
+    <string name="hint_team_difference">70</string>
+    <string name="hint_team_points">90</string>
+    <string name="search">Search</string>
+</resources>
